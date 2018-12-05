@@ -13,14 +13,14 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WpfTemplateProject
+namespace RSSLoudReader.Views
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for RssEntriesView.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class RssEntriesView : UserControl
     {
-        public MainWindow()
+        public RssEntriesView()
         {
             InitializeComponent();
         }
