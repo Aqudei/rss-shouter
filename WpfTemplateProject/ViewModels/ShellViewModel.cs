@@ -31,6 +31,7 @@ namespace RSSLoudReader.ViewModels
             _aggregator = aggregator;
             ActivateItem(IoC.Get<RssSourcesViewModel>());
             Items.Add(IoC.Get<RssEntriesViewModel>());
+            Items.Add(IoC.Get<SettingsViewModel>());
 
             using (var db = new RssContext())
             {
@@ -60,9 +61,9 @@ namespace RSSLoudReader.ViewModels
             if (_isBusy)
                 return;
 
-            Seconds = 60 - _counter;
+            Seconds = Properties.Settings.Default.DELAY_INTERVAL_SECONDS - _counter;
             _counter++;
-            if (_counter <= 60)
+            if (_counter <= Properties.Settings.Default.DELAY_INTERVAL_SECONDS)
                 return;
 
             _isBusy = true;
@@ -82,7 +83,7 @@ namespace RSSLoudReader.ViewModels
                             {
                                 var newRssEntry = new RssEntry
                                 {
-                                    PublishedDate = item.PublishDate.DateTime,
+                                    PublishedDate = item.PublishDate.DateTime > DateTime.MinValue ? item.PublishDate.DateTime : DateTime.Now,
                                     GeneratedId = item.Id,
                                     Title = item.Title.Text,
                                     Url = item.Links.Any() ? item.Links.First().Uri.ToString() : string.Empty
