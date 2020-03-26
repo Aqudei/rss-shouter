@@ -15,7 +15,7 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_01998458DB1649D19CD29163AD00BEA3"
+        "MsmKey" = "8:_018CFBE1C774417E8EF81809FCC4DE84"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -171,12 +171,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_160ECD6CF64D44F0B1E6A8F4CCA46B59"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_1B84AA7288CCDDE0D8EAE5F6B00ADE90"
         "OwnerKey" = "8:_D6E0116734EF4EE8831C8F020D38C397"
         "MsmSig" = "8:_UNDEFINED"
@@ -185,12 +179,6 @@
         {
         "MsmKey" = "8:_1CD0C70F3A6949C1B41FC7F09B3A4ED2"
         "OwnerKey" = "8:_D6E0116734EF4EE8831C8F020D38C397"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_1D7395634A7049939375BA68A855D5C2"
-        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -255,13 +243,19 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_31062347984446D386A84AD59886C5AF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_32B60D5CCA94EE0B0ED5A60E09EC5708"
         "OwnerKey" = "8:_A16B0890F450CBFF44B46CC1207362D2"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_33FAEF084FD7417A9E8EA56350E2C5C6"
+        "MsmKey" = "8:_34B715E41A4B4DFE9576DF4C230C3E50"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -275,12 +269,6 @@
         {
         "MsmKey" = "8:_40109C934EA4ACCEAD30262DA6EDAB2A"
         "OwnerKey" = "8:_D6E0116734EF4EE8831C8F020D38C397"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_4056D9DC5F89415AB7593DA74E627FF0"
-        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -305,12 +293,6 @@
         {
         "MsmKey" = "8:_41BBCE78AE59D4BC677F92BDA0675FF4"
         "OwnerKey" = "8:_D6E0116734EF4EE8831C8F020D38C397"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_45564214D38D4FD5920CB3BFFE2B7EE7"
-        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -345,24 +327,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_570E92393F164CDC83753DF794C14D24"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_578CE74401DE4A4BBC8CF5CD00A52308"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_5B6AC499656E40E9979A35E2E831B700"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_5C3DA5B3C15660595A42F08239652924"
         "OwnerKey" = "8:_D6E0116734EF4EE8831C8F020D38C397"
         "MsmSig" = "8:_UNDEFINED"
@@ -381,7 +345,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_5CE7FA2400C34064BE0B0471AC4A27D1"
+        "MsmKey" = "8:_5CF0EF834C0A443593AFC354DBCFC88C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -429,12 +393,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_733A045828F049C182E14D8823BB6224"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_7810706D27725B83E4028CFEEABE9BFC"
         "OwnerKey" = "8:_D6E0116734EF4EE8831C8F020D38C397"
         "MsmSig" = "8:_UNDEFINED"
@@ -443,6 +401,18 @@
         {
         "MsmKey" = "8:_7810706D27725B83E4028CFEEABE9BFC"
         "OwnerKey" = "8:_22A0ECFF39CA7E14BF2BF37D8EBF66B3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_78C98BFE19B2402C9684947343E4D74C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_791BD811B79D49B28209EC8BF82E76F1"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -467,6 +437,12 @@
         {
         "MsmKey" = "8:_7E34BC37C24C7DCE1E6E8768E851B4BE"
         "OwnerKey" = "8:_D6E0116734EF4EE8831C8F020D38C397"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_7F00BA34B1E24973B07A68F4D37AF761"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -501,6 +477,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_81FFFA1C5E9D4247B65393B3AF10FB1B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_8232DE3ADEC6F34470D25153C6CBA648"
         "OwnerKey" = "8:_D6E0116734EF4EE8831C8F020D38C397"
         "MsmSig" = "8:_UNDEFINED"
@@ -521,12 +503,6 @@
         {
         "MsmKey" = "8:_85EE3EFB5BE94DA216B8D12FCBCE7FD1"
         "OwnerKey" = "8:_D6E0116734EF4EE8831C8F020D38C397"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_86D992A7CF7747CD984C718038261E63"
-        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -567,6 +543,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_936AB6CF3843440BA02D74BBE1454503"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_96468AF952761F61495CF253EF05FEC6"
         "OwnerKey" = "8:_D6E0116734EF4EE8831C8F020D38C397"
         "MsmSig" = "8:_UNDEFINED"
@@ -575,6 +557,18 @@
         {
         "MsmKey" = "8:_9902B6A74154A576B5F9EABAE21A606B"
         "OwnerKey" = "8:_D6E0116734EF4EE8831C8F020D38C397"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9C5C1D51FC2E46E7847050B843886EC4"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9EC9A24D441C46BC84BD53CECD6AA756"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -615,14 +609,32 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_A9D03EEDD8964DB580CDBDD4E9E28F2F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_AA6B2C4C26322F0491B1A63ED2B0EE0C"
         "OwnerKey" = "8:_D6E0116734EF4EE8831C8F020D38C397"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
+        "MsmKey" = "8:_AB01C3FF4F1942FF861CC8D8800A6ABD"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_ABA8EBFCB790DE27A9516282D54B8DEF"
         "OwnerKey" = "8:_D6E0116734EF4EE8831C8F020D38C397"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_AC7DBDAA5DA34D2B8705DEA1A586DDE0"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -657,6 +669,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_B9C07FA3C614410985E022EB90E17418"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_BDE5D286BD2B2D755BF206D283BB58EE"
         "OwnerKey" = "8:_D6E0116734EF4EE8831C8F020D38C397"
         "MsmSig" = "8:_UNDEFINED"
@@ -671,12 +689,6 @@
         {
         "MsmKey" = "8:_C6FE4CF5E62155DF836A833C5A8087EC"
         "OwnerKey" = "8:_D6E0116734EF4EE8831C8F020D38C397"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_C79EA21522FE4D3F8A4579FA7C2947E5"
-        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -711,12 +723,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_D215FB45EBB5436DB5A988C76791D882"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_D29C91028333C31A95B1841F70D8DAFE"
         "OwnerKey" = "8:_D6E0116734EF4EE8831C8F020D38C397"
         "MsmSig" = "8:_UNDEFINED"
@@ -725,12 +731,6 @@
         {
         "MsmKey" = "8:_D2BDB436C0EB8EA197FD16870ABBEFB7"
         "OwnerKey" = "8:_D6E0116734EF4EE8831C8F020D38C397"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_D3DFACC2F9014CCFB257233C1B2F16CA"
-        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -789,6 +789,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_DDF8F220CBB0410BA5A724058C0D494C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_DE2CA6BC0F8E5CDC184606E5409244E4"
         "OwnerKey" = "8:_D6E0116734EF4EE8831C8F020D38C397"
         "MsmSig" = "8:_UNDEFINED"
@@ -807,20 +813,26 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_E4A6F34CBA364FDEB36E93B1560DE06E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_E62E6D8607FE0B595CFB0651A940FA09"
         "OwnerKey" = "8:_D6E0116734EF4EE8831C8F020D38C397"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_E769B263541045AD8B7342F55D4C0AE4"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_E8E04F91D002F386225AFA90183B30FF"
+        "OwnerKey" = "8:_D6E0116734EF4EE8831C8F020D38C397"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_E8E04F91D002F386225AFA90183B30FF"
-        "OwnerKey" = "8:_D6E0116734EF4EE8831C8F020D38C397"
+        "MsmKey" = "8:_EACC0D980E414AE3BDBF4F2AEF415431"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -867,26 +879,14 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_F18A9D9AA17743B695ACD6588E9F25AB"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_F3BD4B9D2D1F75C34C947D8BD853E086"
         "OwnerKey" = "8:_D6E0116734EF4EE8831C8F020D38C397"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_F53C17AC613F4CC3BDF23CEB8C6FD286"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_F6A8400967184C0B8CBF22F1D2B7F36C"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_F747A393F10549B0B39E17CB2109EC79"
-        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -1548,12 +1548,12 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_01998458DB1649D19CD29163AD00BEA3"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_018CFBE1C774417E8EF81809FCC4DE84"
             {
-            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\x86\\Debug\\RSSLoudReader.RssContext.sdf"
-            "TargetName" = "8:RSSLoudReader.RssContext.sdf"
+            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\Debug\\x86\\sqlcese40.dll"
+            "TargetName" = "8:sqlcese40.dll"
             "Tag" = "8:"
-            "Folder" = "8:_26DAA754680E4AB0AD67239159A776C8"
+            "Folder" = "8:_DB0F4B4A5C33464BAA544C33AEC2C045"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2002,26 +2002,6 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_160ECD6CF64D44F0B1E6A8F4CCA46B59"
-            {
-            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\x86\\Debug\\amd64\\sqlcese40.dll"
-            "TargetName" = "8:sqlcese40.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_610EB768D6744548BA6B1E87FF6A3CE8"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_1B84AA7288CCDDE0D8EAE5F6B00ADE90"
             {
             "AssemblyRegister" = "3:1"
@@ -2082,26 +2062,6 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1D7395634A7049939375BA68A855D5C2"
-            {
-            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\x86\\Debug\\amd64\\Microsoft.VC90.CRT\\Microsoft.VC90.CRT.manifest"
-            "TargetName" = "8:Microsoft.VC90.CRT.manifest"
-            "Tag" = "8:"
-            "Folder" = "8:_58AE52E3BDCA4647AB8CC0247ED4EB6B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_1E975C28B5290EA9847328760F36B9AC"
@@ -2414,6 +2374,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_31062347984446D386A84AD59886C5AF"
+            {
+            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\Debug\\x86\\sqlceqp40.dll"
+            "TargetName" = "8:sqlceqp40.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_DB0F4B4A5C33464BAA544C33AEC2C045"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_32B60D5CCA94EE0B0ED5A60E09EC5708"
             {
             "AssemblyRegister" = "3:1"
@@ -2445,12 +2425,12 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_33FAEF084FD7417A9E8EA56350E2C5C6"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_34B715E41A4B4DFE9576DF4C230C3E50"
             {
-            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\x86\\Debug\\x86\\sqlceer40EN.dll"
-            "TargetName" = "8:sqlceer40EN.dll"
+            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\Debug\\amd64\\sqlceme40.dll"
+            "TargetName" = "8:sqlceme40.dll"
             "Tag" = "8:"
-            "Folder" = "8:_91714B3BB20843B59C74E9219B2C8966"
+            "Folder" = "8:_CF95CF8A2E524204A99CB1A0EB431709"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2525,26 +2505,6 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4056D9DC5F89415AB7593DA74E627FF0"
-            {
-            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\x86\\Debug\\amd64\\sqlceme40.dll"
-            "TargetName" = "8:sqlceme40.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_610EB768D6744548BA6B1E87FF6A3CE8"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_40DBFDCE3314840A9A398A5E0A670A76"
@@ -2638,26 +2598,6 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_45564214D38D4FD5920CB3BFFE2B7EE7"
-            {
-            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\x86\\Debug\\x86\\Microsoft.VC90.CRT\\README_ENU.txt"
-            "TargetName" = "8:README_ENU.txt"
-            "Tag" = "8:"
-            "Folder" = "8:_864DD4204E21486A9D55EE5637FD79ED"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_47084C88B32F22BACB8DB5E0F177467F"
@@ -2784,66 +2724,6 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_570E92393F164CDC83753DF794C14D24"
-            {
-            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\x86\\Debug\\amd64\\Microsoft.VC90.CRT\\msvcr90.dll"
-            "TargetName" = "8:msvcr90.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_58AE52E3BDCA4647AB8CC0247ED4EB6B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_578CE74401DE4A4BBC8CF5CD00A52308"
-            {
-            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\x86\\Debug\\x86\\sqlceme40.dll"
-            "TargetName" = "8:sqlceme40.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_91714B3BB20843B59C74E9219B2C8966"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5B6AC499656E40E9979A35E2E831B700"
-            {
-            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\x86\\Debug\\amd64\\sqlceer40EN.dll"
-            "TargetName" = "8:sqlceer40EN.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_610EB768D6744548BA6B1E87FF6A3CE8"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_5C3DA5B3C15660595A42F08239652924"
             {
             "AssemblyRegister" = "3:1"
@@ -2875,12 +2755,12 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5CE7FA2400C34064BE0B0471AC4A27D1"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5CF0EF834C0A443593AFC354DBCFC88C"
             {
-            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\x86\\Debug\\x86\\Microsoft.VC90.CRT\\msvcr90.dll"
-            "TargetName" = "8:msvcr90.dll"
+            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\Debug\\x86\\sqlceme40.dll"
+            "TargetName" = "8:sqlceme40.dll"
             "Tag" = "8:"
-            "Folder" = "8:_864DD4204E21486A9D55EE5637FD79ED"
+            "Folder" = "8:_DB0F4B4A5C33464BAA544C33AEC2C045"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3050,26 +2930,6 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_733A045828F049C182E14D8823BB6224"
-            {
-            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\x86\\Debug\\x86\\sqlceca40.dll"
-            "TargetName" = "8:sqlceca40.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_91714B3BB20843B59C74E9219B2C8966"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_7810706D27725B83E4028CFEEABE9BFC"
             {
             "AssemblyRegister" = "3:1"
@@ -3099,6 +2959,46 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_78C98BFE19B2402C9684947343E4D74C"
+            {
+            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\Debug\\amd64\\Microsoft.VC90.CRT\\README_ENU.txt"
+            "TargetName" = "8:README_ENU.txt"
+            "Tag" = "8:"
+            "Folder" = "8:_F0ECCEBB5F0046908C736139586FEF8F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_791BD811B79D49B28209EC8BF82E76F1"
+            {
+            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\Debug\\amd64\\Microsoft.VC90.CRT\\msvcr90.dll"
+            "TargetName" = "8:msvcr90.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_F0ECCEBB5F0046908C736139586FEF8F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_7B75BA7548FD8080D37E86D658E84303"
@@ -3194,6 +3094,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7F00BA34B1E24973B07A68F4D37AF761"
+            {
+            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\Debug\\amd64\\sqlcese40.dll"
+            "TargetName" = "8:sqlcese40.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_CF95CF8A2E524204A99CB1A0EB431709"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_814931AFC362478A1F5C7C7DE49B6F41"
             {
             "AssemblyRegister" = "3:1"
@@ -3223,6 +3143,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_81FFFA1C5E9D4247B65393B3AF10FB1B"
+            {
+            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\Debug\\x86\\Microsoft.VC90.CRT\\msvcr90.dll"
+            "TargetName" = "8:msvcr90.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_B1E0ADA67BB540668C7D90429CC7137C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_8232DE3ADEC6F34470D25153C6CBA648"
@@ -3347,26 +3287,6 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_86D992A7CF7747CD984C718038261E63"
-            {
-            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\x86\\Debug\\amd64\\sqlceqp40.dll"
-            "TargetName" = "8:sqlceqp40.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_610EB768D6744548BA6B1E87FF6A3CE8"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_87123B45FA6F184A505659F932C48527"
@@ -3524,6 +3444,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_936AB6CF3843440BA02D74BBE1454503"
+            {
+            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\Debug\\amd64\\sqlcecompact40.dll"
+            "TargetName" = "8:sqlcecompact40.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_CF95CF8A2E524204A99CB1A0EB431709"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_96468AF952761F61495CF253EF05FEC6"
             {
             "AssemblyRegister" = "3:1"
@@ -3584,6 +3524,46 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9C5C1D51FC2E46E7847050B843886EC4"
+            {
+            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\Debug\\x86\\Microsoft.VC90.CRT\\Microsoft.VC90.CRT.manifest"
+            "TargetName" = "8:Microsoft.VC90.CRT.manifest"
+            "Tag" = "8:"
+            "Folder" = "8:_B1E0ADA67BB540668C7D90429CC7137C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9EC9A24D441C46BC84BD53CECD6AA756"
+            {
+            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\Debug\\amd64\\sqlceer40EN.dll"
+            "TargetName" = "8:sqlceer40EN.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_CF95CF8A2E524204A99CB1A0EB431709"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_A1485A162FCA2612A41FFCDBDFE0027F"
@@ -3710,6 +3690,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A9D03EEDD8964DB580CDBDD4E9E28F2F"
+            {
+            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\Debug\\x86\\sqlceer40EN.dll"
+            "TargetName" = "8:sqlceer40EN.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_DB0F4B4A5C33464BAA544C33AEC2C045"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_AA6B2C4C26322F0491B1A63ED2B0EE0C"
             {
             "AssemblyRegister" = "3:1"
@@ -3741,6 +3741,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_AB01C3FF4F1942FF861CC8D8800A6ABD"
+            {
+            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\Debug\\x86\\Microsoft.VC90.CRT\\README_ENU.txt"
+            "TargetName" = "8:README_ENU.txt"
+            "Tag" = "8:"
+            "Folder" = "8:_B1E0ADA67BB540668C7D90429CC7137C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_ABA8EBFCB790DE27A9516282D54B8DEF"
             {
             "AssemblyRegister" = "3:1"
@@ -3770,6 +3790,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_AC7DBDAA5DA34D2B8705DEA1A586DDE0"
+            {
+            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\Debug\\amd64\\Microsoft.VC90.CRT\\Microsoft.VC90.CRT.manifest"
+            "TargetName" = "8:Microsoft.VC90.CRT.manifest"
+            "Tag" = "8:"
+            "Folder" = "8:_F0ECCEBB5F0046908C736139586FEF8F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_AD04A2D89D9306D5090D3DFC7AAEBA2F"
@@ -3896,6 +3936,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B9C07FA3C614410985E022EB90E17418"
+            {
+            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\Debug\\x86\\sqlceca40.dll"
+            "TargetName" = "8:sqlceca40.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_DB0F4B4A5C33464BAA544C33AEC2C045"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_BDE5D286BD2B2D755BF206D283BB58EE"
             {
             "AssemblyRegister" = "3:1"
@@ -3987,26 +4047,6 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C79EA21522FE4D3F8A4579FA7C2947E5"
-            {
-            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\x86\\Debug\\amd64\\Microsoft.VC90.CRT\\README_ENU.txt"
-            "TargetName" = "8:README_ENU.txt"
-            "Tag" = "8:"
-            "Folder" = "8:_58AE52E3BDCA4647AB8CC0247ED4EB6B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C90879D48D7C4C4DBB1FE9BE5DCC508A"
@@ -4153,26 +4193,6 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D215FB45EBB5436DB5A988C76791D882"
-            {
-            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\x86\\Debug\\amd64\\sqlcecompact40.dll"
-            "TargetName" = "8:sqlcecompact40.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_610EB768D6744548BA6B1E87FF6A3CE8"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D29C91028333C31A95B1841F70D8DAFE"
             {
             "AssemblyRegister" = "3:1"
@@ -4233,26 +4253,6 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D3DFACC2F9014CCFB257233C1B2F16CA"
-            {
-            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\x86\\Debug\\x86\\sqlcese40.dll"
-            "TargetName" = "8:sqlcese40.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_91714B3BB20843B59C74E9219B2C8966"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D64C316B8BCEB9BAF2848EB144E03518"
@@ -4472,6 +4472,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DDF8F220CBB0410BA5A724058C0D494C"
+            {
+            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\Debug\\x86\\sqlcecompact40.dll"
+            "TargetName" = "8:sqlcecompact40.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_DB0F4B4A5C33464BAA544C33AEC2C045"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_DE2CA6BC0F8E5CDC184606E5409244E4"
             {
             "AssemblyRegister" = "3:1"
@@ -4501,6 +4521,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E4A6F34CBA364FDEB36E93B1560DE06E"
+            {
+            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\Debug\\amd64\\sqlceqp40.dll"
+            "TargetName" = "8:sqlceqp40.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_CF95CF8A2E524204A99CB1A0EB431709"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E62E6D8607FE0B595CFB0651A940FA09"
@@ -4534,26 +4574,6 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E769B263541045AD8B7342F55D4C0AE4"
-            {
-            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\x86\\Debug\\x86\\Microsoft.VC90.CRT\\Microsoft.VC90.CRT.manifest"
-            "TargetName" = "8:Microsoft.VC90.CRT.manifest"
-            "Tag" = "8:"
-            "Folder" = "8:_864DD4204E21486A9D55EE5637FD79ED"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E8E04F91D002F386225AFA90183B30FF"
             {
             "AssemblyRegister" = "3:1"
@@ -4583,6 +4603,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EACC0D980E414AE3BDBF4F2AEF415431"
+            {
+            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\Debug\\RssContext.sdf"
+            "TargetName" = "8:RssContext.sdf"
+            "Tag" = "8:"
+            "Folder" = "8:_8C5D2217A79843839C9279B0CD49B8A7"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_EAF58A5CC84B01ACF12C946EC8A91133"
@@ -4678,6 +4718,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F18A9D9AA17743B695ACD6588E9F25AB"
+            {
+            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\Debug\\amd64\\sqlceca40.dll"
+            "TargetName" = "8:sqlceca40.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_CF95CF8A2E524204A99CB1A0EB431709"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_F3BD4B9D2D1F75C34C947D8BD853E086"
             {
             "AssemblyRegister" = "3:1"
@@ -4707,66 +4767,6 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F53C17AC613F4CC3BDF23CEB8C6FD286"
-            {
-            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\x86\\Debug\\x86\\sqlcecompact40.dll"
-            "TargetName" = "8:sqlcecompact40.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_91714B3BB20843B59C74E9219B2C8966"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F6A8400967184C0B8CBF22F1D2B7F36C"
-            {
-            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\x86\\Debug\\x86\\sqlceqp40.dll"
-            "TargetName" = "8:sqlceqp40.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_91714B3BB20843B59C74E9219B2C8966"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F747A393F10549B0B39E17CB2109EC79"
-            {
-            "SourcePath" = "8:..\\WpfTemplateProject\\bin\\x86\\Debug\\amd64\\sqlceca40.dll"
-            "TargetName" = "8:sqlceca40.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_610EB768D6744548BA6B1E87FF6A3CE8"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_FE2287136C4BC8A1C1BA60EC252CDFD8"
@@ -4847,44 +4847,44 @@
             "Property" = "8:TARGETDIR"
                 "Folders"
                 {
-                    "{9EF0B969-E518-4E46-987F-47570745A589}:_610EB768D6744548BA6B1E87FF6A3CE8"
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_CF95CF8A2E524204A99CB1A0EB431709"
                     {
                     "Name" = "8:amd64"
                     "AlwaysCreate" = "11:FALSE"
                     "Condition" = "8:"
                     "Transitive" = "11:FALSE"
-                    "Property" = "8:_4C47552F37694579BB286E0F3EC5F699"
+                    "Property" = "8:_91D82DDC4A5F41C2AE7F025674F936B4"
                         "Folders"
                         {
-                            "{9EF0B969-E518-4E46-987F-47570745A589}:_58AE52E3BDCA4647AB8CC0247ED4EB6B"
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_F0ECCEBB5F0046908C736139586FEF8F"
                             {
                             "Name" = "8:Microsoft.VC90.CRT"
                             "AlwaysCreate" = "11:FALSE"
                             "Condition" = "8:"
                             "Transitive" = "11:FALSE"
-                            "Property" = "8:_19ED5DF89CF64BE98A19107808900986"
+                            "Property" = "8:_CF5CFB9600004EB69777BF9742DFDE9A"
                                 "Folders"
                                 {
                                 }
                             }
                         }
                     }
-                    "{9EF0B969-E518-4E46-987F-47570745A589}:_91714B3BB20843B59C74E9219B2C8966"
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_DB0F4B4A5C33464BAA544C33AEC2C045"
                     {
                     "Name" = "8:x86"
                     "AlwaysCreate" = "11:FALSE"
                     "Condition" = "8:"
                     "Transitive" = "11:FALSE"
-                    "Property" = "8:_A16ADCD0E17944C88F268A413982F8FB"
+                    "Property" = "8:_1472D7AD716A4410BEB31B44A927A3B2"
                         "Folders"
                         {
-                            "{9EF0B969-E518-4E46-987F-47570745A589}:_864DD4204E21486A9D55EE5637FD79ED"
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_B1E0ADA67BB540668C7D90429CC7137C"
                             {
                             "Name" = "8:Microsoft.VC90.CRT"
                             "AlwaysCreate" = "11:FALSE"
                             "Condition" = "8:"
                             "Transitive" = "11:FALSE"
-                            "Property" = "8:_D8E657DD276D4C40BA1B9FB126A40D6D"
+                            "Property" = "8:_6948B3FD57F94542804AEF6DEC947AF8"
                                 "Folders"
                                 {
                                 }
@@ -4915,6 +4915,28 @@
                 {
                 }
             }
+            "{1525181F-901A-416C-8A58-119130FE478E}:_9BEC5D5B6935482ABDF65718E9C35D9F"
+            {
+            "Name" = "8:#1915"
+            "AlwaysCreate" = "11:FALSE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Property" = "8:AppDataFolder"
+                "Folders"
+                {
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_8C5D2217A79843839C9279B0CD49B8A7"
+                    {
+                    "Name" = "8:RssLoudShouter"
+                    "AlwaysCreate" = "11:FALSE"
+                    "Condition" = "8:"
+                    "Transitive" = "11:FALSE"
+                    "Property" = "8:_89F5414CEFC94232AA9691CF999AB26D"
+                        "Folders"
+                        {
+                        }
+                    }
+                }
+            }
         }
         "LaunchCondition"
         {
@@ -4932,7 +4954,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:RSS Shouter App"
         "ProductCode" = "8:{0C686702-3F84-4108-A241-7B74EF87BA25}"
-        "PackageCode" = "8:{CA315BEF-43E8-4AB8-A507-09DFF573ABF0}"
+        "PackageCode" = "8:{1EE2B7A4-81C9-4007-A97D-CA8B8B1B52DE}"
         "UpgradeCode" = "8:{F06FEFB9-A96B-4A1C-9F2C-70154D5A5FDF}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
@@ -5052,18 +5074,18 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_0107AA4B42084F638941B0999046F6AE"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_A92E73807F84422799A47AAD2166DD84"
             {
-            "Name" = "8:Shortcut to Primary output from RSSLoudReader (Active)"
+            "Name" = "8:RSS Shouter"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
-            "IconIndex" = "3:0"
+            "IconIndex" = "3:32512"
             "Transitive" = "11:FALSE"
             "Target" = "8:_D6E0116734EF4EE8831C8F020D38C397"
             "Folder" = "8:_7C6DC1C301184B539C6AA7B87DDE821A"
             "WorkingFolder" = "8:_26DAA754680E4AB0AD67239159A776C8"
-            "Icon" = "8:"
+            "Icon" = "8:_D6E0116734EF4EE8831C8F020D38C397"
             "Feature" = "8:"
             }
         }
@@ -5467,7 +5489,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_D6E0116734EF4EE8831C8F020D38C397"
             {
-            "SourcePath" = "8:..\\WpfTemplateProject\\obj\\x86\\Debug\\RSSLoudReader.exe"
+            "SourcePath" = "8:..\\WpfTemplateProject\\obj\\Release\\RSSLoudReader.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_26DAA754680E4AB0AD67239159A776C8"

@@ -212,6 +212,10 @@
     <Compile Include="Events\ReadingRssEvent.cs" />
     <Compile Include="Events\RssFeedAdded.cs" />
     <Compile Include="Events\RssSourcesUpdatedEvent.cs" />
+    <Compile Include="Migrations\201812061018470_Please work.cs" />
+    <Compile Include="Migrations\201812061018470_Please work.Designer.cs">
+      <DependentUpon>201812061018470_Please work.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\RssEntry.cs" />
     <Compile Include="Models\RssSource.cs" />
@@ -244,6 +248,10 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Resource Include="Resources\Logo_ZENData_new.gif" />
+    <EmbeddedResource Include="Migrations\201812061018470_Please work.resx">
+      <DependentUpon>201812061018470_Please work.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

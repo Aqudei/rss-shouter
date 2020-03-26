@@ -117,11 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Logo_ZENData_new" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Logo_ZENData_new.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Target" xml:space="preserve">
+    <value>H4sIAAAAAAAEAO1Y227bOBB9X2D/QdBzajpJH7qB3CJ1kkWwcRJETt9paWwTS5Fakgrsb+tDP6m/0KHuF18UNwmKYhEgsMmZM8Ph4Vz8/es379Mq4s4TKM2kGLnHg6HrgAhkyMRi5CZm/u6D++njn394l2G0cr4UcqdWDjWFHrlLY+IzQnSwhIjqQcQCJbWcm0EgI0JDSU6Gw7/I8TEBhHARy3G8h0QYFkH6Bb+OpQggNgnlExkC1/k67vgpqnNLI9AxDWDkPvj+jUzCB6AhKNc554yiEz7wuetQIaShBl08e9TgGyXFwo9xgfLpOgaUm1OuIXf9rBLve4rhiT0FqRQLqCDRRkbPBDw+zcNC2uoHBdctw4aBu8QAm7U9dRo8jJvWuKbWrtM2djbmygq2YjvI7mJQKB45je2jkg1IGvt35IwTbhIFIwGJUZQfOffJjLPgH1hP5b8gRiLhvO4kuol7jQVculcyBmXWDzDPXb8OXYc09UhbsVSr6WSHuhbm9MR1btE4nXEoOVALgG+kgr9BgKIGwntqDChhMSCNYsd6y1apWRlF7uELcp0JXd2AWJjlyH0/HOKjuWIrCIul3JNHwfDFoZZRCewzNmWGw+ubeVT89Y2k/NBLCC8weoU5+3mKyWHDldXRPFJRfB/xfZmoAA5hfqb5P/W32bL/fxMyXuuJFAzDkeJn1j5LyYGKn6IiFjdDGQa44qNdgpXZQEgsWzknde510+cM0gfTzOoMtOtUTmT1cFClfLIXJSP6FpTi/Ww6dHm8qmiTrGoX1Z1sKe/ehMYxBrtW7vMVx89q/fid//xKGGUYJNAbCmLpbWkJL5wuoLWLptHTK6a0wXREZ9Re+TiMOmK1y9wS4sJQ577aj78KfKFiP+dqjfRU3msLogrgFZ4pwhecHg9KX2pdQEc1bbYop2pDNhlLnkRiW0bapd0ojXWYxkZ/vLz61ZHypf4YaTapI6QL/fVbVauO1NrqYnqkdUNtFpAODVrZv02svrQrHvhP0S5PBAfxbpvu6xAvK0x1/Wzl7WjSrCeNkzR23pgknbzdFimtl/m7lae9PGfun9U6STQTcR0M1RMLbQL119pANLACA/8/7oPCYXQMg/d2wizEJlSwOWiT9VJuutcY/H6dIYxoHfKek9ib94NMYM+xt+Pb2ev0mn7EE1XBkqoNbVoF/uxh58VQa+3ki2FuHGVC/GxeZZT5PahTnx5+6dvdNBvMmHnRuaDbcfZq/dc7G/8s4SITZxL9zjytzwx9B4Pdc8EWK+VMceDc0K0zHqn/cuhdgGaLCsL+jiggsLm7Ai1krsVcFreKB6x7VIi0Ln0ChuILpufKsDkNDG7jaXRKgS+UJyhyGc0w74m7xMSJOdcaohlvjFse2W0/HY6aPnt3sf2mX+II6CazSehOfE4YD0u/rzaQdQuEpWX+5NErHL8RbrEukW6l6AmUh+8CYhA2YUwhijmC6Tvh0yc4xDeclm9gQYN10ShsB9l/Ec2wexeMLhSNdI5R6dtfw4n9OfzjD5HCXKZAFwAA</value>
   </data>
-  <data name="rss_feeds" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\rss-feeds.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="DefaultSchema" xml:space="preserve">
+    <value>dbo</value>
   </data>
 </root>

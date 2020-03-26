@@ -10,6 +10,10 @@ namespace RSSLoudReader
 {
     class RssContext : DbContext
     {
+        public RssContext() : base("name=RssContext")
+        {
+
+        }
         public DbSet<RssSource> RssSources { get; set; }
         public DbSet<RssEntry> RssEntries { get; set; }
     }

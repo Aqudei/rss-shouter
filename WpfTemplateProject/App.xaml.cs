@@ -1,4 +1,6 @@
-﻿using System.Windows;
+﻿using System;
+using System.IO;
+using System.Windows;
 using NLog;
 
 namespace RSSLoudReader
@@ -12,6 +14,13 @@ namespace RSSLoudReader
         public App()
         {
             DispatcherUnhandledException += App_DispatcherUnhandledException;
+
+//#if DEBUG
+
+//#else
+//            var dataDirectory = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), "RssLoudShouter");        
+//            AppDomain.CurrentDomain.SetData("DataDirectory", dataDirectory);
+//#endif
         }
 
         private void App_DispatcherUnhandledException(object sender, System.Windows.Threading.DispatcherUnhandledExceptionEventArgs e)

@@ -9,19 +9,33 @@
         Title="RSS Shouter" Height="450" Width="800">
     <Grid>
         <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
             <RowDefinition/>
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
-        <tb:TaskbarIcon x:Name="TaskbarIcon"
+        <Image Stretch="Uniform" 
+               HorizontalAlignment="Left"
+               Margin="2,2,2,4"
+               Height="128"
+               Source="/RSSLoudReader;component/Resources/Logo_ZENData_new.gif" MouseLeftButtonUp="Image_MouseLeftButtonUp"/>
+        <tb:TaskbarIcon Grid.Row="0" x:Name="TaskbarIcon"
                         ToolTipText="RSS Shouter" 
                         IconSource="/RSSLoudReader;component/Resources/rss-feeds.ico" />
         <tb:TaskbarIcon Grid.Row="0" />
 
-        <mah:MetroAnimatedSingleRowTabControl Grid.Row="0" x:Name="Items"/>
-        <TextBlock Grid.Row="1" FontSize="32" Margin="16,0,0,0" Foreground="#FF104F00" >
-            <Run Text="Number of Seconds To Next Reading: "/>
-            <Run FontWeight="Bold"
-                 Text="{Binding Seconds, StringFormat={}{0:000}}"/>
-        </TextBlock>
+        <mah:MetroAnimatedSingleRowTabControl Grid.Row="1" x:Name="Items"/>
+        <StackPanel Grid.Row="2" Orientation="Horizontal">
+            <TextBlock  FontSize="32" Margin="16,0" Foreground="#FF104F00" >
+                <Run Text="Number of Seconds To Next Reading: "/>
+                <Run FontWeight="Bold"
+                     Text="{Binding Seconds, StringFormat={}{0:000}}"/>
+            </TextBlock>
+            <Button x:Name="Cancel" 
+                    VerticalAlignment="Center"
+                    Padding="8" Margin="0,5,0,5.4" Width="166" Background="#FF8FBDFF">
+                <Button.Effect>
+                    <DropShadowEffect/>
+                </Button.Effect> Cancel Current Reading</Button>
+        </StackPanel>
     </Grid>
 </mah:MetroWindow>

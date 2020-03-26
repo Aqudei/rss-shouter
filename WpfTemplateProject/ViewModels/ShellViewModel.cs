@@ -11,8 +11,11 @@ using System.Windows.Media;
 using System.Windows.Threading;
 using System.Xml;
 using Caliburn.Micro;
+using NLog;
+using NLog.Fluent;
 using RSSLoudReader.Events;
 using RSSLoudReader.Models;
+using LogManager = Caliburn.Micro.LogManager;
 
 namespace RSSLoudReader.ViewModels
 {
@@ -21,6 +24,7 @@ namespace RSSLoudReader.ViewModels
         private readonly IEventAggregator _aggregator;
         private readonly DispatcherTimer _timer = new DispatcherTimer();
         private readonly List<RssSource> _rssSources = new List<RssSource>();
+        private readonly ILogger _logger = NLog.LogManager.GetCurrentClassLogger();
 
         public ShellViewModel(IEventAggregator aggregator)
         {
@@ -36,11 +40,20 @@ namespace RSSLoudReader.ViewModels
             _timer.Interval = TimeSpan.FromSeconds(1);
             _timer.Tick += _timer_Tick;
             _timer.Start();
+
+            _aggregator.Subscribe(this);
         }
 
         private bool _isBusy = false;
         private int _counter = 0;
         private int _seconds;
+        private volatile bool _cancelled;
+
+        public void Cancel()
+        {
+            _cancelled = true;
+        }
+
 
         private async void _timer_Tick(object sender, EventArgs e)
         {
@@ -52,35 +65,50 @@ namespace RSSLoudReader.ViewModels
             if (_counter <= 60)
                 return;
 
-
             _isBusy = true;
+            _cancelled = false;
             await Task.Run(() =>
             {
-                foreach (var rssSource in _rssSources)
+                try
                 {
-                    using (var reader = XmlReader.Create(rssSource.Url))
+                    foreach (var rssSource in _rssSources)
                     {
-                        var feed = SyndicationFeed.Load(reader);
 
-                        foreach (var item in feed.Items)
+                        using (var reader = XmlReader.Create(rssSource.Url))
                         {
-                            var newRssEntry = new RssEntry
+                            var feed = SyndicationFeed.Load(reader);
+
+                            foreach (var item in feed.Items)
                             {
-                                GeneratedId = item.Id,
-                                Title = item.Title.Text,
-                                Url = item.Links.Any() ? item.Links.First().Uri.ToString() : string.Empty
-                            };
+                                var newRssEntry = new RssEntry
+                                {
+                                    PublishedDate = item.PublishDate.DateTime,
+                                    GeneratedId = item.Id,
+                                    Title = item.Title.Text,
+                                    Url = item.Links.Any() ? item.Links.First().Uri.ToString() : string.Empty
+                                };
 
-                            var isNew = SaveRss(newRssEntry);
-                            if (!isNew)
-                                continue;
+                                var isNew = SaveRss(newRssEntry);
 
-                            _aggregator.PublishOnCurrentThread(new Events.ReadingRssEvent(newRssEntry));
-                            ReadAloud(item.Title.Text);
-                            _aggregator.PublishOnCurrentThread(new DoneReadingEvent());
+                                if (!isNew)
+                                    continue;
+
+                                if (_cancelled)
+                                    continue;
+
+                                _aggregator.PublishOnCurrentThread(new Events.ReadingRssEvent(newRssEntry));
+                                ReadAloud(item.Title.Text);
+                                _aggregator.PublishOnCurrentThread(new DoneReadingEvent());
+                            }
                         }
                     }
                 }
+                catch (Exception exception)
+                {
+                    Debug.WriteLine(exception);
+                    _logger.Error("Error at Rss Reader Loop.\n" + exception.Message);
+                }
+
             });
             _counter = 0;
             _isBusy = false;

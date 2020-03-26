@@ -42,5 +42,10 @@ namespace RSSLoudReader.Views
         {
             TaskbarIcon.HideBalloonTip();
         }
+
+        private void Image_MouseLeftButtonUp(object sender, System.Windows.Input.MouseButtonEventArgs e)
+        {
+            Process.Start("https://zendata.ch/");
+        }
     }
 }
