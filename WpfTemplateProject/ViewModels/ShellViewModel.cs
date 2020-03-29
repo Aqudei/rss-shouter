@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
 using System.ServiceModel.Syndication;
@@ -15,6 +16,7 @@ using NLog;
 using NLog.Fluent;
 using RSSLoudReader.Events;
 using RSSLoudReader.Models;
+using static System.Net.Mime.MediaTypeNames;
 using LogManager = Caliburn.Micro.LogManager;
 
 namespace RSSLoudReader.ViewModels
@@ -25,7 +27,7 @@ namespace RSSLoudReader.ViewModels
         private readonly DispatcherTimer _timer = new DispatcherTimer();
         private readonly List<RssSource> _rssSources = new List<RssSource>();
         private readonly ILogger _logger = NLog.LogManager.GetCurrentClassLogger();
-
+        public string MyImageSource { get => _myImageSource; set => Set(ref _myImageSource, value); }
         public ShellViewModel(IEventAggregator aggregator)
         {
             _aggregator = aggregator;
@@ -43,12 +45,23 @@ namespace RSSLoudReader.ViewModels
             _timer.Start();
 
             _aggregator.Subscribe(this);
+
+            if (File.Exists(Properties.Settings.Default.LOGO))
+            {
+                MyImageSource = Properties.Settings.Default.LOGO;
+            }
+            else
+            {
+                MyImageSource = "/RSSLoudReader;component/Resources/Logo_ZENData_new.gif";
+            }
         }
 
         private bool _isBusy = false;
         private int _counter = 0;
         private int _seconds;
         private volatile bool _cancelled;
+
+        private string _myImageSource;
 
         public void Cancel()
         {

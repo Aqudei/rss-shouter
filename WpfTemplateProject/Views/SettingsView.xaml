@@ -16,7 +16,11 @@
         <StackPanel >
             <Label>Delay Interval</Label>
             <TextBox x:Name="DelayIntervalSeconds"/>
-            <Button Margin="2" x:Name="Save">Save</Button>
+            <Button Margin="2,16,2,2" x:Name="Save">Save Settings</Button>
+            <Label>Logo</Label>
+            <TextBox x:Name="Logo"/>
+            <Button x:Name="BrowseLogo" HorizontalAlignment="Right" Margin="2">Browse Logo</Button>
+            <Button Margin="2,16,2,2" x:Name="ApplyLogo">Apply Logo</Button>
         </StackPanel>
     </Grid>
 </UserControl>

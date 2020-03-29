@@ -34,5 +34,17 @@ namespace RSSLoudReader.Properties {
                 this["DELAY_INTERVAL_SECONDS"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string LOGO {
+            get {
+                return ((string)(this["LOGO"]));
+            }
+            set {
+                this["LOGO"] = value;
+            }
+        }
     }
 }

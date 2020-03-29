@@ -17,7 +17,8 @@
                HorizontalAlignment="Left"
                Margin="2,2,2,4"
                Height="128"
-               Source="/RSSLoudReader;component/Resources/Logo_ZENData_new.gif" MouseLeftButtonUp="Image_MouseLeftButtonUp"/>
+               Source="{Binding MyImageSource}" 
+               MouseLeftButtonUp="Image_MouseLeftButtonUp"/>
         <tb:TaskbarIcon Grid.Row="0" x:Name="TaskbarIcon"
                         ToolTipText="RSS Shouter" 
                         IconSource="/RSSLoudReader;component/Resources/rss-feeds.ico" />
