@@ -12,6 +12,7 @@
             <RowDefinition Height="Auto"/>
             <RowDefinition/>
             <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
         <Image Stretch="Uniform" 
                HorizontalAlignment="Left"
@@ -36,7 +37,12 @@
                     Padding="8" Margin="0,5,0,5.4" Width="166" Background="#FF8FBDFF">
                 <Button.Effect>
                     <DropShadowEffect/>
-                </Button.Effect> Cancel Current Reading</Button>
+                </Button.Effect> Cancel Current Reading
+            </Button>
         </StackPanel>
+
+        <TextBox Grid.Row="3" Grid.ColumnSpan="2" MinLines="4" IsReadOnly="True" x:Name="Message" />
     </Grid>
 </mah:MetroWindow>
+
+

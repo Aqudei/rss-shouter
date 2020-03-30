@@ -81,15 +81,38 @@ namespace RSSLoudReader.ViewModels
 
             _isBusy = true;
             _cancelled = false;
+            Message = "";
             await Task.Run(() =>
             {
                 try
                 {
                     foreach (var rssSource in _rssSources)
                     {
+                        XmlReader reader;
 
-                        using (var reader = XmlReader.Create(rssSource.Url))
+                        Debug.WriteLine($"Procesing {rssSource.Url}...");
+
+                        try
                         {
+                            reader = XmlReader.Create(rssSource.Url);
+                        }
+                        catch (Exception ex)
+                        {
+                            Debug.WriteLine($"Unable to process feeds from {rssSource.Url}");
+                            Debug.WriteLine(ex.Message);
+
+                            Execute.OnUIThread(() =>
+                            {
+                                Message += $"Unble to process feeds from {rssSource.Url}\n";
+                                Message += $"Reason: {ex.Message}\n";
+                            });
+
+                            continue;
+                        }
+
+                        using (reader)
+                        {
+
                             var feed = SyndicationFeed.Load(reader);
 
                             foreach (var item in feed.Items)
@@ -126,6 +149,13 @@ namespace RSSLoudReader.ViewModels
             });
             _counter = 0;
             _isBusy = false;
+        }
+        private string _message;
+
+        public string Message
+        {
+            get { return _message; }
+            set { Set(ref _message, value); }
         }
 
         public int Seconds
