@@ -41,7 +41,12 @@
             </Button>
         </StackPanel>
 
-        <TextBox Grid.Row="3" Grid.ColumnSpan="2" MinLines="4" IsReadOnly="True" x:Name="Message" />
+        <TextBox Grid.Row="3" Grid.ColumnSpan="2"
+                 MinLines="4"
+                 MaxLines="4" 
+                 IsReadOnly="True" 
+                 x:Name="Message" AcceptsReturn="True" 
+                 VerticalScrollBarVisibility="Auto" />
     </Grid>
 </mah:MetroWindow>
 
